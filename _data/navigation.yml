@@ -1,12 +1,26 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Cursuri"
+    url: /cursuri/office/
+  - title: "Despre mine"
+    url: /despre/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
+cursuri-nav:
+  - title: "Cursuri"
+    children:
+      - title: "MS Office"
+        url: /cursuri/office/
+      - title: "Word - Avansat"
+        url: /cursuri/word/
+      - title: "Excel - Avansat"
+        url: /cursuri/excel/
+  - title: "Alte informatii"	
+    children:	
+      - title: "Cum sa particip la un curs"	
+        url: /cursuri/curs/	
+      - title: "Informatii utile"	
+        url: /cursuri/info/

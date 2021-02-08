@@ -12,23 +12,23 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ro-RO"
+title                    : "Invata Office"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+subtitle                 : "Word, Excel, PowerPoint si Outlook"
+name                     : "Invata Office"
+description              : "Cursuri Microsoft Office: Word, Excel, PowerPoint si Outlook"
+url                      : "https://cb-websites.github.io"
+baseurl                  : "/cursuri-office"
+repository               : "cb-websites/cursuri-office"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -93,21 +93,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Calin B."
+  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. 
+  bio              : "Inginer Software / Trainer cu 13 ani de experienta in banking si IT."
+  location         : "Arad, RO"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:calin.bule@gmail.com"
+    - label: "Personal Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://calinbule.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/calinbule/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -209,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Bucharest # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

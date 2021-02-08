@@ -134,3 +134,7 @@ $(document).ready(function() {
     }
   });
 });
+
+$(function(){
+  $("div.hubspot-link__container.sproket", window.top.document).hide()
+});

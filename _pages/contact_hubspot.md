@@ -11,7 +11,7 @@ permalink: /contact_hubspot/
 		formId: "c8bbb116-7fb2-49b9-b1bb-d46906e2181d"
 	});
 
-	$(function(){
-	  $("div.hubspot-link__container.sproket", window.top.document).hide()
-	});
+$(function(){
+  $("div.hubspot-link__container.sproket", window.top.document).hide()
+});
 </script>

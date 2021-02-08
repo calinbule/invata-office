@@ -40,6 +40,11 @@
     
     <!-- Start of HubSpot Embed Code -->
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7605137.js"></script>
+    <script>
+      var iframe = document.getElementById("hs-form-iframe-0");
+      var elmnt = iframe.contentWindow.document.getElementsByTagName("div")[12];
+      elmnt.style.display="none";
+    </script>
     <!-- End of HubSpot Embed Code -->
 
   </body>

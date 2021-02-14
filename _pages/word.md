@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /cursuri/word/
+permalink: /cursuri/word1/
 sidebar:
   nav: cursuri-nav
 ---

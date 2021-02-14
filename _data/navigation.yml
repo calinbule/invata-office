@@ -4,8 +4,8 @@ main:
     url: /cursuri/office/
   - title: "Despre mine"
     url: /despre/
-  - title: "Blog"
-    url: /blog/
+  #- title: "Blog"
+  #  url: /blog/
   - title: "Contact"
     url: /contact/
 

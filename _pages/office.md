@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /cursuri/office/
+permalink: /cursuri/office1/
 sidebar:
   nav: cursuri-nav
 ---

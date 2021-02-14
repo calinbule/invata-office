@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /cursuri/excel/
+permalink: /cursuri/excel1/
 sidebar:
   nav: cursuri-nav
 ---

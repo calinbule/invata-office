@@ -1,8 +1,26 @@
 #contactForm {
-  width: 50%;
+  width: 60%;
   margin-right: auto;
   margin-left: auto;
   margin-top: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  #contactForm {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+#contactForm {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+  }
 }
 
 #contactForm form {

@@ -55,5 +55,3 @@ Scopul acestui curs este de a ajuta utilizatoriii sa dobandeasca cunostinte de n
 * Contacte
 * Task-uri
 * Note
-
-Durata acestui curs este de aproximativ 10 ore si include atat parte de prezentare practica, cat si exercitii. 

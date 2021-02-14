@@ -12,7 +12,7 @@ main:
 cursuri-nav:
   - title: "Cursuri"
     children:
-      - title: "MS Office"
+      - title: "Microsoft Office"
         url: /cursuri/office/
       - title: "Word - Avansat"
         url: /cursuri/word/

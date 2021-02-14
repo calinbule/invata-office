@@ -14,9 +14,9 @@ cursuri-nav:
     children:
       - title: "Microsoft Office"
         url: /cursuri/office/
-      - title: "Word - Avansat"
+      - title: "Word Avansat"
         url: /cursuri/word/
-      - title: "Excel - Avansat"
+      - title: "Excel Avansat"
         url: /cursuri/excel/
   - title: "Alte informatii"	
     children:	
